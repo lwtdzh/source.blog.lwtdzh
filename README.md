@@ -2,6 +2,9 @@
 ## Blog 地址
 [https://blog.lwtdzh.ip-ddns.com/](https://blog.lwtdzh.ip-ddns.com/)
 
+## hexo 官方说明文档
+[https://hexo.io/docs/commands(https://hexo.io/docs/commands)]
+
 ## 编辑方法
 
 1. **Clone 本项目**
