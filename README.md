@@ -13,16 +13,11 @@
 
 3. **安装依赖**
 
-   使用以下命令将依赖安装到项目目录下的 `node_modules` 文件夹中：
+   使用以下命令将 package.json 中列出的依赖安装到项目目录下的 `node_modules` 文件夹中：
    ```bash
-   npm install hexo-cli
+   npm install
    ```
-   或者，可以使用以下命令将 `hexo-cli` 全局安装：
-   ```bash
-   npm install -g hexo-cli
-   ```
-   `-g` 是 `--global` 的简写。
-
+   
 4. **编辑博客内容**
 
 5. **本地查看**
