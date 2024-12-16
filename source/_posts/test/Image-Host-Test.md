@@ -1,0 +1,18 @@
+---
+title: 图床检测
+date: 2022-09-07 16:15:30
+tags: 
+    - test
+---
+
+## 文章说明
+本文章用于检查博客的图床是否正常加载。如果下方标题下的图片能正常显示，则说明对应图床正常工作。
+
+## 直连 Github 图床
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241216175657162.png)
+
+## 直连 Cloudflare Works
+![](https://reverse-proxy-raw-githubusercontent-com.lwtdzh.workers.dev/lwtdzh/imghost/master/img/20241216175657162.png)
+
+## 使用自定义域连接 Cloudflare Works
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241216175657162.png)
