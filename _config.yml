@@ -96,7 +96,16 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+
+# https://github.com/theme-next/hexo-leancloud-counter-security
+leancloud_counter_security:
+  enable_sync: false
+  app_id: vm2hyEZq2l9VVcinOqL74KD0-MdYXbMMI
+  app_key: MBoxV2NTywcB9vKpquuPtLaX
+  server_url: https://leancloud.blog.lwtdzh1.ip-dynamic.org
+  username: guest
+  password: 12345679
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
