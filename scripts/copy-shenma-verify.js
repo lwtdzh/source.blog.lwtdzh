@@ -1,10 +1,10 @@
-console.log("Executing copy-baidu-verify.js...")
+console.log("Executing copy-shenma-verify.js...")
 
 const fs = require('fs');
 const path = require('path');
 
 hexo.extend.filter.register('after_generate', () => {
-  const fileName = 'baidu_verify_codeva-e28AqD3F1C.html'; // 替换成你的文件名
+  const fileName = 'shenma-site-verification.txt'; // 替换成你的文件名
   const searchEngineVerifyDir = path.join(hexo.base_dir, 'search-engine-verify')
   const sourceFile = path.join(searchEngineVerifyDir, fileName);
   const destinationFile = path.join(hexo.public_dir, fileName);

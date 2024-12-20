@@ -107,6 +107,11 @@ leancloud_counter_security:
   username: guest
   password: 12345679
 
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

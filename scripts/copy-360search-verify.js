@@ -1,10 +1,10 @@
-console.log("Executing copy-baidu-verify.js...")
+console.log("Executing copy-360search-verify.js...")
 
 const fs = require('fs');
 const path = require('path');
 
 hexo.extend.filter.register('after_generate', () => {
-  const fileName = 'baidu_verify_codeva-e28AqD3F1C.html'; // 替换成你的文件名
+  const fileName = 'c2edb372d7b10e234b60e653d79e17aa.txt'; // 替换成你的文件名
   const searchEngineVerifyDir = path.join(hexo.base_dir, 'search-engine-verify')
   const sourceFile = path.join(searchEngineVerifyDir, fileName);
   const destinationFile = path.join(hexo.public_dir, fileName);

@@ -27,7 +27,7 @@ Blend・S
 [Lanzou](https://wwl.lanzoub.com/b0r9dws8d)，password: eegm
 [Baidu](https://pan.baidu.com/s/1NDW1R8VN1v7wYyGv6wJBRQ?pwd=v4d8)
 [Github](https://github.com/lwtdzh/imghost/blob/master/subs/%E8%B0%83%E6%95%99%E5%92%96%E5%95%A1%E5%8E%85.zip)
-[bilibili](已被阿瓦隆，这也是被迫自开博客的目的)
+[bilibili]已被阿瓦隆
 
 #### 播放效果
 ###### 簡體+日

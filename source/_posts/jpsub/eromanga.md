@@ -29,7 +29,7 @@ https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5565
 [Lanzou](https://wwqq.lanzoub.com/imEfc2haz1lc)，password: 9bbd
 [Baidu](https://pan.baidu.com/s/1rL5UnTzgCg3oUlK9M-u4Cw?pwd=hvwn)
 [Github](https://github.com/lwtdzh/imghost/blob/master/subs/%E5%9F%83%E7%BD%97%E8%8A%92%E9%98%BF%E8%80%81%E5%B8%88.zip)
-[bilibili](链接已被阿瓦隆)
+[bilibili]链接已被阿瓦隆
 
 #### 播放效果
 ###### 簡體+日

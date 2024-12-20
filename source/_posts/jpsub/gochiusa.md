@@ -31,7 +31,7 @@ Gochuumon wa Usagi desu ka
 [Lanzou](https://wwl.lanzoub.com/b0r9ew3ta)，password: 3gpp
 [Baidu](https://pan.baidu.com/s/1FjEAShyfuAC4cDKWggACGA?pwd=t7qt)
 [Github](https://github.com/lwtdzh/imghost/blob/master/subs/%E7%82%B9%E5%85%94.zip)
-[bilibili](已被阿瓦隆，这也是被迫自开博客的目的)
+[bilibili]已被阿瓦隆
 
 #### 播放效果
 ###### 簡體+日
