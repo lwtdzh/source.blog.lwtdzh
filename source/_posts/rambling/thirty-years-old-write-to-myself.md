@@ -13,24 +13,29 @@ tags:
 他们多大了？我今年第一次思考这个问题。诚然，他们永远都不会长大，变老的只有我们，但是假如我们的时空是一致的呢？
 人物太多了，图片就那么大，只能塞我认识的其中一小小部分了，里面有你认识的角色么？
 
+#### B站视频版
+（4分钟带你看80位动漫角色2025年的年龄）：[【盘点】动漫人物年龄，截止2024年12月31日](https://www.bilibili.com/video/BV1amcgeyEJF)
+（15分钟完整版，包含290名角色）：[【盘点】动漫人物年龄，截止2024年12月31日（完整催眠版）](https://www.bilibili.com/video/BV1WZcbeDEDM)
+
 #### 主图
 （图片很大，国外CDN，慢慢加载。可以右键保存，里面有我，不喜欢可以用橡皮擦擦掉）
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219214648726.jpg)
-
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116225928765.jpg)
+（去掉我）
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116222855892.jpg)
 #### 附图：左
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219214828728.jpg)
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223020156.jpg)
 
 #### 附图：左中
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219214906601.jpg)
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223025537.jpg)
 
 #### 附图：中
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219214932208.jpg)
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223029598.jpg)
 
 #### 附图：中右
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215010011.jpg)
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116222952052.jpg)
 
 #### 附图:右
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215037718.jpg)
+![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223044121.jpg)
 
 #### 附图：和京阿尼的角色们合影
 ![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215127453.jpg)
