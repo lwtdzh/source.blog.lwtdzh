@@ -12,7 +12,7 @@ The animation "The Legendary Hero Is Dead!" Japanese subtitles, bilingual subtit
 
 ## 动画「勇者死了」日文字幕双语字幕简日字幕中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219193414501.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219193414501.webp)
 
 #### 片名、译名
 勇者が死んだ！村人の俺が掘った落とし穴に勇者が落ちた結果。
@@ -32,7 +32,7 @@ The Legendary Hero Is Dead!
 
 #### 播放效果展示
 ###### 双语
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218105341224.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218105341224.jpg)
 
 ###### 仅日文
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218105345120.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218105345120.jpg)

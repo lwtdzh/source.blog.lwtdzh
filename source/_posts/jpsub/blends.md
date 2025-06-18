@@ -12,7 +12,7 @@ tags:
 
 ## 「调教咖啡厅」简日双语字幕、日文字幕、中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219193220117.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219193220117.webp)
 
 #### 片名、译名
 調教咖啡廳
@@ -31,6 +31,6 @@ Blend・S
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218214750717.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218214750717.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218214753837.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218214753837.jpg)

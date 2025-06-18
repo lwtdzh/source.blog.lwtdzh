@@ -11,7 +11,7 @@ tags:
 <!-- more -->
 
 ## 中日双语字幕「这个美术社大有问题！」简日、日语字幕
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250317211626071.png)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250317211626071.png)
 
 #### 片名、译名
 『この美術部には大きな問題がある！』
@@ -30,4 +30,4 @@ Kono Bijutsubu ni wa Mondai ga Aru!
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250317211631324.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250317211631324.jpg)

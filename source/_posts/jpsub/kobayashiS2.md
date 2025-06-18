@@ -12,7 +12,7 @@ The first season of "Miss Kobayashi's Dragon Maid S" with simplified Chinese-Jap
 
 ## 「小林家的龙女仆S」第二季简日双语字幕、日文字幕、中日字幕、繁日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219193314975.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219193314975.jpg)
 
 #### 片名、译名
 小林さんちのメイドラゴンS
@@ -31,6 +31,6 @@ Miss Kobayashi's Dragon Maid S
 
 #### 播放效果
 ###### 簡日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218210929266.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218210929266.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218210934187.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218210934187.jpg)

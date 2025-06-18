@@ -12,7 +12,7 @@ tags:
 
 ## 「请问您今天要来点兔子吗？」剧场版+OVA+TV 简日双语字幕、日文字幕、中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219194006078.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219194006078.webp)
 
 #### 片名、译名
 1期 ご注文はうさぎですか？ 请问您今天要来点兔子吗？
@@ -35,6 +35,6 @@ Gochuumon wa Usagi desu ka
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219194335866.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219194335866.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219194335904.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219194335904.jpg)

@@ -12,7 +12,7 @@ tags:
 
 ## 「虚构推理」第一季 简日双语字幕、日文字幕、中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219201932955.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219201932955.webp)
 
 #### 片名、译名
 虚構推理
@@ -29,6 +29,6 @@ In Spectre
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219202455666.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219202455666.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219202455757.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219202455757.jpg)

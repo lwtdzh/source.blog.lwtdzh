@@ -12,7 +12,7 @@ tags:
 
 ## 「轻音少女」第一季、第二季 简日双语字幕、日文字幕、中日双语字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219200128625.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219200128625.webp)
 
 #### 片名、译名
 けいおん！ 轻音少女!(1期)

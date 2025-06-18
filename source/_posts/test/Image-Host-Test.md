@@ -21,4 +21,4 @@ tags:
 ## 使用自定义域连接 Cloudflare Workers
 理论上可以正常显示。  
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241216175657162.png)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241216175657162.png)

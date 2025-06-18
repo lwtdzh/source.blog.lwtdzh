@@ -12,7 +12,7 @@ tags:
 
 ## 「白色相簿」第一季、第二季 简日双语字幕、日文字幕、中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219201132724.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219201132724.webp)
 
 #### 片名、译名
 ホワイトアルバム，白色相簿，WHITE ALBUM。
@@ -28,6 +28,6 @@ S1简体中文字幕来自澄空学园，S2转载自诸神字幕组。
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219201519517.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219201519517.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219201519566.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219201519566.jpg)

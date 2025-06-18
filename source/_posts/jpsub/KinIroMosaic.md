@@ -12,7 +12,7 @@ tags:
 
 ## 「黄金拼图」剧场版+TV版 简日双语字幕、日文字幕、中日双语字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219195506368.webp)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219195506368.webp)
 
 #### 片名、译名
 1期:きんいろモザイク 1期:黄金拼图

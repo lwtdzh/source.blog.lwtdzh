@@ -12,7 +12,7 @@ tags:
 
 ## 「埃罗芒阿老师」简日双语字幕、日文字幕、中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219204910311.png)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219204910311.png)
 
 #### 片名、译名
 エロマンガ先生
@@ -33,6 +33,6 @@ https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5565
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219204636782.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219204636782.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219204636869.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219204636869.jpg)

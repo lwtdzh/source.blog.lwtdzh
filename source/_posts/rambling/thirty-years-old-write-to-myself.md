@@ -19,35 +19,35 @@ tags:
 
 #### 主图
 （图片很大，国外CDN，慢慢加载。可以右键保存，里面有我，不喜欢可以用橡皮擦擦掉）
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116225928765.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116225928765.jpg)
 （去掉我）
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116222855892.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116222855892.jpg)
 #### 附图：左
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223020156.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116223020156.jpg)
 
 #### 附图：左中
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223025537.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116223025537.jpg)
 
 #### 附图：中
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223029598.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116223029598.jpg)
 
 #### 附图：中右
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116222952052.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116222952052.jpg)
 
 #### 附图:右
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20250116223044121.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20250116223044121.jpg)
 
 #### 附图：和京阿尼的角色们合影
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215127453.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219215127453.jpg)
 
 #### 附图：做大梦
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215153794.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219215153794.jpg)
 
 #### 附图：摇滚、露营与幻想（都有粉毛）
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215233620.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219215233620.jpg)
 
 #### 附图：看着90年代当红的角色们
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219215302433.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219215302433.jpg)
 
 #### 年龄计算方式
 1. 如果有官方出生日期设定，则直接使用

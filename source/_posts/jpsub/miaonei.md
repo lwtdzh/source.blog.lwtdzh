@@ -12,7 +12,7 @@ tags:
 
 ## 「天使降临到我身边！」简日双语字幕、日文字幕、中日字幕
 
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241219192940665.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241219192940665.jpg)
 
 #### 片名、译名
 天使降临到了我的身边！
@@ -32,6 +32,6 @@ Wataten!: An Angel Flew Down to Me
 
 #### 播放效果
 ###### 簡體+日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218221212363.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218221212363.jpg)
 ###### 日
-![](https://raw.githubusercontent.com.lwtdzh.ip-ddns.com/lwtdzh/imghost/master/img/20241218221212420.jpg)
+![](https://raw.githubusercontent.com/lwtdzh/imghost/master/img/20241218221212420.jpg)
